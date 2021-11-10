@@ -1,3 +1,5 @@
+![homepage](https://user-images.githubusercontent.com/60288671/141075954-c9965357-c988-46be-ba06-8a5472006866.png)
+![getstarted](https://user-images.githubusercontent.com/60288671/141075978-6ed9e99f-813e-4206-ad14-ead12d20c99e.png)
 ## StudyNomads (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
